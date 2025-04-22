@@ -23,15 +23,9 @@ function getEndpoints(deviceAddress, endpoints)
   // In the code below, two endpoints are created. The first is a
   // temperature sensor, while the second one is a carbon dioxide sensor.
 
-  //var e = endpoints.addEndpoint("1", "Distance sensor", endpointType.genericSensor);
-  //e.variableTypeId = 1136;
+  var e = endpoints.addEndpoint("1", "Distance sensor", endpointType.genericSensor);
+  e.variableTypeId = 1136;
   // endpoints.addEndpoint("2", "CO2 sensor", endpointType.ppmConcentrationSensor, ppmConcentrationSensorSubType.carbonDioxide);
-  endpoints.addEndpoint("1", "Temperatura Combustible", endpointType.temperatureSensor);
-  endpoints.addEndpoint("2", "Motor", endpointType.appliance);
-  endpoints.addEndpoint("3", "Temperatura Ambiental", endpointType.temperatureSensor);
-  endpoints.addEndpoint("4", "Nivel Combustible", endpointType.volumeSensor);
-  endpoints.addEndpoint("5", "Peso Tanque", endpointType.weightSensor);
-
 }
 
 function validateDeviceAddress(address, result)
