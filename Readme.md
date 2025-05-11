@@ -1,11 +1,11 @@
 
-# Parsing + Configuration Script – RIOT Edge - Rev. A
+# Configuration Script – RIOT Edge - Rev. A
 
-This **Parsing + Configuration** script is designed for the **RIOT Edge** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Configuration** script is designed for the **RIOT Edge** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
-- **Type**: Parsing + Configuration
+- **Type**: Configuration
 
 ## ⚙️ Description
 
@@ -31,13 +31,13 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 ---
 
-# Script de Parsing + Configuration – RIOT Edge Rev. A
+# Script de Configuration – RIOT Edge Rev. A
 
-Este script de **Parsing + Configuration** está diseñado para el modelo **RIOT Edge** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Configuration** está diseñado para el modelo **RIOT Edge** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
-- **Tipo**: Parsing + Configuration
+- **Tipo**: Configuration
 
 ## ⚙️ Descripción
 
